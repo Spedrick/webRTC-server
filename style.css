@@ -12,8 +12,8 @@ html, body {
 
 .secondary-video {
     position: absolute;
-    max-width: 30%;
-    width: 30%;
+    max-width: 25%;
+    width: 25%;
     margin: 16px;
     border-radius: 16px;
 }
